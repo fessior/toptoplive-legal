@@ -1,0 +1,7 @@
+# Code owner duy nhất: Hades (account fessior-hades). Chủ nhân quyết 15/10/2026 (hades ADR 0033):
+# mọi PR vào nhánh deploy phải được Hades review và APPROVE rồi mới merge. Hades review theo
+# head commit (review lại khi push thêm), đăng findings inline; người trong team vẫn được
+# request review thêm bất kỳ ai, nhưng ruleset chỉ bắt buộc code owner.
+# Muốn đổi file này: PR như mọi thay đổi khác (Hades duyệt), hoặc chủ nhân.
+
+* @fessior-hades
